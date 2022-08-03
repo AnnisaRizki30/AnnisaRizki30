@@ -1,5 +1,3 @@
-# github-profile
-
 <h1 align="center">Hi 👋, I'm Annisa Lianda</h1>
 <h3 align="center">A passionate AI Specialist (Instructor-Mentor & Engineer) from Indonesia 🇮🇩</h3>
 
