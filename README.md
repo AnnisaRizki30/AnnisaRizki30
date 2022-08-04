@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Annisa Lianda</h1>
-<h3 align="center">A passionate AI Specialist (Instructor-Mentor & Engineer) from Indonesia 🇮🇩</h3>
+<h3 align="center">A passionate Artificial Intelligence Specialist from Indonesia 🇮🇩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annisarizki30&label=Profile%20views&color=0e75b6&style=flat" alt="annisarizki30" /> </p>
 
