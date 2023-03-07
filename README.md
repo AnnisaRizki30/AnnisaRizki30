@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Html, Css, Javascript, Jquery, Bootstrap, PHP, Laravel, Vue Js, DBMS, Python, Pytorch, Flask, Machine Learning, Deep Learning, Transfer Learning, Transformers, Big Data, AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnnisaRizki30](https://github.com/AnnisaRizki30)
+- 👩🏻‍💻 All of my projects are available at [https://github.com/AnnisaRizki30](https://github.com/AnnisaRizki30)
 
 - 💬 Ask me about **Artificial Intelligence in Domain NLP, DS, or CV**
 
