@@ -24,3 +24,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=AnnisaRizki30&theme=github_dark&show_icons=true)](https://github.com/AnnisaRizki30)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnnisaRizki30&theme=dark&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnisaRizki30&theme=github_dark&layout=compact)](https://github.com/AnnisaRizki30/github-readme-stats)
+
