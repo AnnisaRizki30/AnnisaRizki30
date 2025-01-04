@@ -83,8 +83,8 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/chatgpt-4.svg" alt="tensorflow" width="60" height="60"/></a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/55/1/claude-logo-png_seeklogo-554540.png?v=638694285190000000" alt="tensorflow" width="60" height="60"/></a>
 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:622/1*MVJZLfszGGNiJ-UFK4U31A.png" alt="tensorflow" width="120" height="120"/></a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*rtBVZG3xYrWb_CvEJEKuFQ.png" alt="tensorflow" width="120" height="120"/></a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:622/1*MVJZLfszGGNiJ-UFK4U31A.png" alt="tensorflow" width="200" height="60"/></a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*rtBVZG3xYrWb_CvEJEKuFQ.png" alt="tensorflow" width="200" height="60"/></a>
 </p> 
 
 <hr>
