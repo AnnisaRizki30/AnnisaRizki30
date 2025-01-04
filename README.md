@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280">
+<img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXEzc3Q0NDVoNW9kaXR4b2gwbW53dnluY2sybDk3OHk1eTBtZW96dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cYeHgdouckUj0edXov/giphy.gif" height="280">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=annisarizki30&label=Profile%20views&color=0e75b6&style=flat" alt="annisarizki30" /> </p>
 </p>
 
