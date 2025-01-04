@@ -1,7 +1,7 @@
  <p align="center">
 <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280">
  </p><p>
-<h1 align="center">Hi 👋, I'm Annisa Lianda</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Annisa Lianda</h1>
 <h3 align="center">A passionate Artificial Intelligence Engineer from Indonesia 🇮🇩</h3>
 
 [![](https://visitcount.itsvg.in/api?id=AnnisaRizki30&icon=1&color=0)](https://visitcount.itsvg.in)
