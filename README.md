@@ -36,3 +36,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=annisarizki30&show_icons=true&locale=en&layout=compact" alt="annisarizki30" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=annisarizki30&show_icons=true&locale=en" alt="annisarizki30" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=annisarizki30&" alt="annisarizki30" /></p>
