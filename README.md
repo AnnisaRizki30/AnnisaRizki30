@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact </strong>I love everything about Coding, Art (Music & Photography), Traveling</strong>
 
-<p align="center">🤝 &nbsp; Connect with Me  <span><a href="[https://www.linkedin.com/in/navodya-pasqual-11ba801b1/](https://www.linkedin.com/in/annisa-rizki-liliandari/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a></span>
+<p align="center">🤝 &nbsp; Connect with Me &nbsp; <span><a href="[https://www.linkedin.com/in/navodya-pasqual-11ba801b1/](https://www.linkedin.com/in/annisa-rizki-liliandari/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a></span>
 
 <hr>
 
