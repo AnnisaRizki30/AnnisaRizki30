@@ -9,7 +9,7 @@
 <li>🌱 I’m currently learning Generative AI, LLM, and Stable Diffusion</li>
 <li>👩🏻‍💻 All of my projects are available at [https://github.com/AnnisaRizki30](https://github.com/AnnisaRizki30)</li>
 <li>💬 Ask me about <strong>Artificial Intelligence in Domain NLP, DS, or CV also Gen AI and Stable Diffusion</strong>
-<li>📄 Know about my experiences [https://arizki.meetandari.id/#resume](https://arizki.meetandari.id/#resume)
+<li>📄 Know about my experiences https://arizki.meetandari.id/#resume
 <li>⚡  Fun fact: I love everything about Coding, Art (Music & Photography), Traveling</li>
 </ul>
 <p>🤝 &nbsp; Connect with Me</p>
