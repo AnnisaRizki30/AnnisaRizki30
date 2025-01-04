@@ -6,8 +6,7 @@
 <h3 align="center">A passionate AI/ML Engineer from Indonesia</h3>
 
 <p align="center"><a href="[https://www.linkedin.com/in/navodya-pasqual-11ba801b1/](https://www.linkedin.com/in/annisa-rizki-liliandari/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
-  
-[![](https://visitcount.itsvg.in/api?id=AnnisaRizki30&icon=1&color=0)](https://visitcount.itsvg.in)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annisarizki30&label=Profile%20views&color=0e75b6&style=flat" alt="annisarizki30" /> </p>
 
