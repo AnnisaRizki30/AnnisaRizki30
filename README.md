@@ -12,17 +12,17 @@
 
 - 🔭 I’m currently working as an <strong>AI/ML Engineer</strong>
 
-- 🌱 I’m currently learning <strong>Artificial Intelligence Gen AI, LLM, and Stable Diffusion</strong>
+- 🌱 I’m currently learning <strong>Generative AI (Gen AI), LLM (Large Language Models), and Stable Diffusion</strong>
 
 - 👩🏻‍💻 All of my projects are available at [https://github.com/AnnisaRizki30](https://github.com/AnnisaRizki30)
 
-- 💬 Ask me about <strong>Artificial Intelligence in Domain NLP, DS, or CV also Gen AI and Stable Diffusion</strong>
+- 💬 Feel free to ask me about Artificial Intelligence in the domains of <strong>NLP (Natural Language Processing), Data Science (DS), Computer Vision (CV), as well as Gen AI and Stable Diffusion</strong>
 
-- 📫 How to reach me </strong>annisarizkililiandari@gmail.com</strong>
+- 📫 You can reach me at </strong>annisarizkililiandari@gmail.com</strong>
 
-- 📄 Know about my experiences [http://annisarizki.andaristudio.com/#resume](http://annisarizki.andaristudio.com/#resume)
+- 📄 Know more about my experience on my [http://annisarizki.andaristudio.com/#resume](http://annisarizki.andaristudio.com/#resume)
 
-- ⚡ Fun fact </strong>I love everything about Coding, Art (Music & Photography), Traveling</strong>
+- ⚡ Fun fact </strong>I’m passionate about coding, art (music & photography), and traveling</strong>
 
 <hr>
 
