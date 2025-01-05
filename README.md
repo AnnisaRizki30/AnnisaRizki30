@@ -78,12 +78,11 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/></a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/></a>    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/></a> 
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" width="60" height="60"/></a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://img-cdn.thepublive.com/fit-in/640x430/filters:format(webp)/socialsamosa/media/media_files/2024/12/09/G8Vnj59jwd3zCElDeUJ7.jpg" width="120" height="60"/></a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/1708563364236-12JCC98CUARGPPDOGMKB/image-90.png" width="120" height="60"/></a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/chatgpt-4.svg" width="60" height="60"/></a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/55/1/claude-logo-png_seeklogo-554540.png?v=638694285190000000" width="60" height="60"/></a>
-
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:622/1*MVJZLfszGGNiJ-UFK4U31A.png" width="200" height="100"/></a>
+<a href="https://www.llama.com/" target="_blank" rel="noreferrer"> <img src="https://img-cdn.thepublive.com/fit-in/640x430/filters:format(webp)/socialsamosa/media/media_files/2024/12/09/G8Vnj59jwd3zCElDeUJ7.jpg" width="120" height="60"/></a>
+<a href="https://stability.ai/" target="_blank" rel="noreferrer"> <img src="https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/1708563364236-12JCC98CUARGPPDOGMKB/image-90.png" width="120" height="60"/></a>
+<a href="https://openai.com/index/chatgpt/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/chatgpt-4.svg" width="60" height="60"/></a>
+<a href="https://claude.ai/login?returnTo=%2F%3F" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/55/1/claude-logo-png_seeklogo-554540.png?v=638694285190000000" width="60" height="60"/></a>
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:622/1*MVJZLfszGGNiJ-UFK4U31A.png" width="200" height="100"/></a>
 </p> 
 
 <hr>
