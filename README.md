@@ -125,10 +125,15 @@
 <h3 id="--tech-stack">🛠 &nbsp; Knowledge Skills</h3>
 
 <p align="left">
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/></a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/></a>     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/></a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/></a>    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/></a> 
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/></a>    
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" width="60" height="60"/></a>
 <a href="https://www.llama.com/" target="_blank" rel="noreferrer"> <img src="https://img-cdn.thepublive.com/fit-in/640x430/filters:format(webp)/socialsamosa/media/media_files/2024/12/09/G8Vnj59jwd3zCElDeUJ7.jpg" width="120" height="60"/></a>
 <a href="https://stability.ai/" target="_blank" rel="noreferrer"> <img src="https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/1708563364236-12JCC98CUARGPPDOGMKB/image-90.png" width="120" height="60"/></a>
