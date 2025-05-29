@@ -20,7 +20,7 @@
 
 - 📫 You can reach me at </strong>annisarizkililiandari@gmail.com</strong>
 
-- 📄 Know more about my experience on my [http://annisarizki.andaristudio.com/#resume](http://annisarizki.andaristudio.com/#resume)
+- 📄 Know more about my experience on my [http://arizki.meetandari.id/#resume](http://arizki.meetandari.id/#resume)
 
 - ⚡ Fun fact </strong>I’m passionate about coding, art (music & photography), and traveling</strong>
 
