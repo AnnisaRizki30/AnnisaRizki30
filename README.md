@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working as an <strong>AI/ML Engineer</strong>
 
-- 🌱 I’m currently learning <strong>Generative AI (Gen AI), LLM (Large Language Models), and Stable Diffusion</strong>
+- 🌱 I’m currently learning <strong>Generative AI (Gen AI), LLM (Large Language Models), and Diffusion Models</strong>
 
 - 👩🏻‍💻 All of my projects are available at [https://github.com/AnnisaRizki30](https://github.com/AnnisaRizki30)
 
