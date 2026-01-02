@@ -5,9 +5,6 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Annisa Lianda</h1>
 <h3 align="center">A passionate AI/ML Engineer from Indonesia</h3>
 
-<p align="center"><a href="[https://www.linkedin.com/in/annisa-rizki-liliandari/](https://www.linkedin.com/in/annisa-rizki-liliandari/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annisarizki30&label=Profile%20views&color=0e75b6&style=flat" alt="annisarizki30" /> </p>
 
 - 🔭 I’m currently working as an <strong>AI/ML Engineer</strong>
@@ -20,7 +17,7 @@
 
 - 📫 You can reach me at </strong>annisarizkililiandari@gmail.com</strong>
 
-- 📄 Know more about my experience on my [http://arizki.meetandari.id/#resume](http://arizki.meetandari.id/#resume)
+- 📄 Know more about my experience on my [https://www.linkedin.com/in/annisa-rizki-liliandari](https://www.linkedin.com/in/annisa-rizki-liliandari)
 
 - ⚡ Fun fact </strong>I’m passionate about coding, art (music & photography), and traveling</strong>
 
