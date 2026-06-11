@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annisarizki30&label=Profile%20views&color=0e75b6&style=flat" alt="annisarizki30" /> </p>
 
-- 🔭 I’m currently working as an <strong>AI/ML Engineer</strong>
+- 🔭 I’m currently working as an <strong>Full Stack AI/ML Engineer</strong>
 
-- 🌱 I’m currently learning <strong>Generative AI (Gen AI), LLM (Large Language Models), and Diffusion Models</strong>
+- 🌱 I’m currently learning <strong>Generative AI (Gen AI), LLM (Large Language Models), Diffusion Models, and Automation</strong>
 
 - 👩🏻‍💻 All of my projects are available at [https://github.com/AnnisaRizki30](https://github.com/AnnisaRizki30)
 
